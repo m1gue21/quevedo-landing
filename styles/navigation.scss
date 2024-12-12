@@ -55,10 +55,10 @@
 }
 
 .nav-dropdown-link {
-  @apply min-w-[150px] py-2.5 text-sm font-medium text-dark transition lg:hover:text-primary whitespace-nowrap lg:hover:bg-[#ffece4] px-4 rounded-lg;
+  @apply min-w-[150px] py-2.5 text-sm font-medium text-dark transition lg:hover:text-primary whitespace-nowrap lg:hover:bg-[#E6F7FF] px-4 rounded-lg;
   
   &.active {
-    @apply lg:bg-[#ffece4] text-primary;
+    @apply lg:bg-[#E6F7FF] text-primary;
   }
 }
 

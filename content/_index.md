@@ -20,36 +20,37 @@ brands:
 
 #features
 features:
-  sub_title: SPECIAL FEATURES
-  title: Elements To </br> Get You Started
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas </br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  sub_title: POR QUÉ ELEGIRNOS
+  title: Razones Para </br> Elegir al Dr. Quevedo
+  description: Descubre las principales razones que hacen del Dr. Quevedo una opción destacada. Excelencia, confianza y satisfacción de los pacientes lo definen.
   list:
-    - icon: 'lock' # feather icon: https://feathericons.com/
-      title: Updated Security
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
-    - icon: 'wind'
-      title: Magnetic Turning
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
-    - icon: 'shield'
-      title: Secured & up-to-date
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
-    - icon: 'link'
-      title: Instant Link Sharing
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
-    - icon: 'lock'
-      title: Updated Security
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
-    - icon: 'wind'
-      title: Magnetic Turning
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
+    - icon: 'star' # feather icon: https://feathericons.com/
+      title: Experiencia Comprobada
+      content: El Dr. Quevedo cuenta con una amplia experiencia, ofreciendo resultados de alta calidad que generan confianza .
+    - icon: 'smile'
+      title: Opiniones Positivas
+      content: Numerosos pacientes satisfechos comparten testimonios sobresalientes, destacando el cuidado y profesionalismo que recibieron.
+    - icon: 'trending-up'
+      title: Actualización Constante
+      content: El doctor se mantiene a la vanguardia con los últimos avances en su campo, garantizando el mejor cuidado e innovación.
+    - icon: 'image'
+      title: Resultados Visibles
+      content: Las imágenes de antes y después de los procedimientos muestran resultados exitosos y reflejan la habilidad del doctor.
+    - icon: 'message-circle'
+      title: Comunicación Activa
+      content: El Dr. Quevedo interactúa activamente con su audiencia, respondiendo dudas y compartiendo información valiosa sobre salud.
+    - icon: 'book'
+      title: Enfoque Educativo
+      content: Prioriza la educación de sus pacientes a través de contenido informativo, empoderándolos para tomar mejores decisiones de salud.
+
 
 #intro
 intro:
-  title: Built Exclusively For You
-  subtitle: SHORT INTRO VIDEO
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas </br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: "Conoce la Excelencia del Dr. Quevedo"
+  subtitle: "VIDEO PARA TI"
+  description: "Descubre cómo el Dr. Quevedo y su equipo trabajan para brindarte los mejores resultados en cuidado dental."
   thumbnail: "/images/video-popup.jpg"
-  video_id: dyZcRRWiuuw
+  video_id: HpeUkuB7ZJc
 
 #speciality
 speciality:
@@ -57,12 +58,12 @@ speciality:
     title: You Will Not Miss Your All Misunderstandings
     subtitle: PRIMARY SPECIALITY
     description: Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistency throughout the.
-    image: /images/features-01.png
+    image: /images/cristian-vert.jpg
   secondary:
     title: Say Hello To No-Code The Advance Creation
     subtitle: SECONDARY SPECIALITY
     description: From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code.
-    image: /images/features-02.png
+    image: /images/cristian-vert2.jpg
 
 
 #Testimonial
@@ -71,37 +72,37 @@ testimonial:
   subtitle: Don’t Take Our Word For It
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas </br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
   list:
-    - author: David Cameron
-      avatar: /images/user-img/01.jpg
-      profession: CEO, Nexuspay
+    - author: Nombre cliente
+      avatar: /images/tooth.jpg
+      profession: descripcion de el cliente
       content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
-    - author: David Cameron
-      avatar: /images/user-img/02.jpg
-      profession: CEO, Nexuspay
+    - author: Nombre cliente
+      avatar: /images/tooth.jpg
+      profession: descripcion de el cliente
       content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
-    - author: David Cameron
-      avatar: /images/user-img/03.jpg
-      profession: CEO, Nexuspay
+    - author: Nombre cliente
+      avatar: /images/tooth.jpg
+      profession: descripcion de el cliente
       content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
-    - author: David Cameron
-      avatar: /images/user-img/04.png
-      profession: CEO, Nexuspay
+    - author: Nombre cliente
+      avatar: /images/tooth.jpg
+      profession: descripcion de el cliente
       content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
-    - author: David Cameron
-      avatar: /images/user-img/05.jpg
-      profession: CEO, Nexuspay
+    - author: Nombre cliente
+      avatar: /images/tooth.jpg
+      profession: descripcion de el cliente
       content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
-    - author: David Cameron
-      avatar: /images/user-img/06.jpg
-      profession: CEO, Nexuspay
+    - author: Nombre cliente
+      avatar: /images/tooth.jpg
+      profession: descripcion de el cliente
       content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
-    - author: David Cameron
-      avatar: /images/user-img/07.jpg
-      profession: CEO, Nexuspay
+    - author: Nombre cliente
+      avatar: /images/tooth.jpg
+      profession: descripcion de el cliente
       content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
-    - author: David Cameron
-      avatar: /images/user-img/08.jpg
-      profession: CEO, Nexuspay
+    - author: Nombre cliente
+      avatar: /images/tooth.jpg
+      profession: descripcion de el cliente
       content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor
 
 ---

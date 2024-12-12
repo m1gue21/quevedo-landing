@@ -42,8 +42,8 @@
 
   "call_to_action": {
     "enable": true,
-    "title": "Get Andromeda Now",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas </br> Werat viverra id et aliquet. vulputate egestas sollicitudin.",
+    "title": "Agenda tu cita con nosotros ya!!",
+    "content": "No esperes mas para empezar tu proceso con nosotros, estamos disponibles para recibbir tu solicitud y darte la sonrisa que siempre has soñado",
     "button": {
       "label": "Download The Theme",
       "link": "https://themefisher.com/products/andromeda-light-nextjs"

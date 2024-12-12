@@ -20,14 +20,7 @@ const Testimonial = ({ testimonial }) => {
         <div className="animate row mt-10 items-center justify-center">
           <div className="xl:col-11">
             <div className="row items-center justify-center">
-              <div className="hidden lg:col-3 xl:col-4 lg:block">
-                <ImageFallback
-                  src="/images/testimonials-01.png"
-                  width={455}
-                  height={522}
-                  alt="testimonials"
-                />
-              </div>
+              
               <div className="md:col-7 lg:col-6 xl:col-4">
                 {
                   <Swiper
@@ -59,10 +52,10 @@ const Testimonial = ({ testimonial }) => {
                           )}
                           <div className="mt-7 inline-block rounded-md bg-body p-7 shadow-[0_10px_50px_rgba(0,0,0,.08)] md:mt-5 lg:mt-8 xl:mt-5">
                             <ImageFallback
-                              className="mx-auto rounded-full"
+                              className="mx-auto rounded-xl"
                               src={item.avatar}
-                              width={90}
-                              height={90}
+                              width={2190}
+                              height={190}
                               priority={true}
                               alt={item.author}
                             />
@@ -80,14 +73,6 @@ const Testimonial = ({ testimonial }) => {
                     ref={testimonialPaginationRef}
                   ></div>
                 </div>
-              </div>
-              <div className="hidden lg:col-3 xl:col-4 lg:block">
-                <ImageFallback
-                  src="/images/testimonials-02.png"
-                  width={455}
-                  height={522}
-                  alt="testimonials"
-                />
               </div>
             </div>
           </div>
