@@ -7,6 +7,7 @@ import Link from "next/link";
 import { useEffect } from "react";
 import { Autoplay } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
+import CalendlyPopup from "@layouts/components/calendlyEmbed";
 
 const HomeBanner = ({ banner: bannerData, brands }) => {
   useEffect(() => {
@@ -105,12 +106,8 @@ const HomeBanner = ({ banner: bannerData, brands }) => {
                     "mb-8 banner-title opacity-0"
                   )}
                   <div className="banner-btn opacity-0">
-                    <Link
-                      className="btn btn-primary"
-                      href={bannerData.link.href}
-                    >
-                      {bannerData.link.label}
-                    </Link>
+                  <CalendlyPopup url="https://calendly.com/miguefreeagent" text="Agendar cita ahora" />
+
                   </div>
                 </div>
                 <div className="col-10">

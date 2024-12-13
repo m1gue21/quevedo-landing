@@ -5,6 +5,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import React, { useEffect, useRef, useState } from "react";
 import { CgClose } from "react-icons/cg";
+import CalendlyPopup from "@layouts/components/calendlyEmbed";
 
 const Header = () => {
   // distructuring the main menu from menu object
@@ -112,12 +113,7 @@ const Header = () => {
           </ul>
           <div className="order-1 ml-auto flex items-center md:ml-0">
             {config.nav_button.enable && (
-              <Link
-                className="btn btn-primary hidden lg:flex"
-                href={config.nav_button.link}
-              >
-                {config.nav_button.label}
-              </Link>
+                        <CalendlyPopup url="https://calendly.com/miguefreeagent" text="Agendar cita ahora" />
             )}
 
             {/* navbar toggler */}
