@@ -113,7 +113,7 @@ const Header = () => {
           </ul>
           <div className="order-1 ml-auto flex items-center md:ml-0">
             {config.nav_button.enable && (
-                        <CalendlyPopup url="https://calendly.com/miguefreeagent" text="Agendar cita ahora" />
+                        <CalendlyPopup url="https://calendly.com/miguefreeagent" text="Agendar" />
             )}
 
             {/* navbar toggler */}
