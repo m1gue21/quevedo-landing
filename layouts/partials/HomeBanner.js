@@ -1,6 +1,5 @@
 "use client";
 
-import Circle from "@layouts/components/Circle";
 import ImageFallback from "@layouts/components/ImageFallback";
 import { gsap } from "@lib/gsap";
 import { markdownify } from "@lib/utils/textConverter";
@@ -94,61 +93,7 @@ const HomeBanner = ({ banner: bannerData, brands }) => {
       <div className="container-xl">
         <div className="relative">
           <div className="bg-theme banner-bg col-12 absolute left-0 top-0">
-            <Circle
-              className="circle left-[10%] top-12"
-              width={32}
-              height={32}
-              fill={false}
-            />
-            <Circle
-              className="circle left-[2.5%] top-[29%]"
-              width={85}
-              height={85}
-            />
-            <Circle
-              className="circle bottom-[48%] left-[22%]"
-              width={20}
-              height={20}
-            />
-            <Circle
-              className="circle bottom-[37%] left-[15%]"
-              width={47}
-              height={47}
-              fill={false}
-            />
-            <Circle
-              className="circle bottom-[13%] left-[6%]"
-              width={62}
-              height={62}
-              fill={false}
-            />
-            <Circle
-              className="circle right-[12%] top-[15%]"
-              width={20}
-              height={20}
-            />
-            <Circle
-              className="circle right-[2%] top-[30%]"
-              width={73}
-              height={73}
-              fill={false}
-            />
-            <Circle
-              className="circle right-[19%] top-[48%]"
-              width={37}
-              height={37}
-              fill={false}
-            />
-            <Circle
-              className="circle right-[33%] top-[54%]"
-              width={20}
-              height={20}
-            />
-            <Circle
-              className="circle bottom-[20%] right-[3%]"
-              width={65}
-              height={65}
-            />
+           
           </div>
           <div className="row overflow-hidden rounded-2xl">
             <div className="col-12">
